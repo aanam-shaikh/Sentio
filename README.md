@@ -254,7 +254,7 @@ This project is licensed under the MIT License.
 
 **Aanam Shaikh**
 - GitHub: [@aanam-shaikh](https://github.com/aanam-shaikh)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aanam-shaikh-941a01256/)
+- LinkedIn: [aanam-shaikh](https://www.linkedin.com/in/aanam-shaikh-941a01256/)
 
 ---
 
